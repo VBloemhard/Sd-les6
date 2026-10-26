@@ -11,11 +11,11 @@
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
 | . | . | . | . | . | . | . | . | . | . | . | . |
-| - | - | N | N | E | - | - | - | E | - | E | - |
+| - | - | N | N | E | - | - | - | E | - | E | N |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](2.png)
+![status](3.png)
 
 ---
 
