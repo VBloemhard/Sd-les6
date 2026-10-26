@@ -11,7 +11,7 @@
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
 
-| - | - | N | N | E | B | - | - | E | - | E | N |
+| - | O | N | N | E | B | - | O | E | - | E | N |
 
 
 ## Status
