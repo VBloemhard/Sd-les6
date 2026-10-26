@@ -3,7 +3,7 @@
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
 1. <Vincent Bloemhard> – <51487@ma-web.nl>
-2. <Naam 2> – <email2@example.com>
+2. <Gillian fitz-james> – <41724@ma-web.nl>
 
 
 ---
